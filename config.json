@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": true,
+    "pools": [
+        {
+            "coin": "monero",
+            "algo": null,
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "42vJ3ezzKjHAY2GfmH1dv7MnxHwbg145Th9WECuWt9boEV2c5b9rpKeNdBHWmtzR7bVZLMLyAKgcR8rPATs7GKNNGFBpPZF",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
