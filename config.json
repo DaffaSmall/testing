@@ -5,14 +5,11 @@
     "cuda": false,
     "pools": [
         {
-            "coin": null,
-            "algo": "cn/upx2",
-            "url": "sg.uplexa.herominers.com:1177",
-            "user": "UPX1ZHFGNdg1CRmrMUyMrigxg6JqZMrfphNUmKL4GsRY6QR7TGeQ93w9sM8jjK8iKRKXs2diEKTUYakFh1v37F3f9rAhwUYM4L",
-            "pass": "low end acer laptop",
-            "tls": false,
+            "algo": "rx/0",
+            "url": "sg.monero.herominers.com:10191",
+            "user": "45jRaPbZmJaXPMwbzxSRRG4j5aj7nyJmV5KuvexwCcUtEd8zvdTMWgoW2R9oqhiTgJAk1vRqyY7K5JJq9w8CDtQiFdSxvQ9",
             "keepalive": true,
-            "nicehash": false
+            "tls": true
         }
     ]
 }
